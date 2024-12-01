@@ -1,1 +1,1 @@
-Welcome to new project in Git!!
+Lets start the coding in Vs code
